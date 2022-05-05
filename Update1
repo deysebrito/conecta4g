@@ -1,15 +1,27 @@
 {
   "Version": "2.1.0",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=9002",
-  "Sms": "https://paste.anasor.com/paste.php?raw&id=8656",
-  "EmailFeedback": "apolossh@gmail.com",
-  "UrlContato": "https://t.me/",
+  "UrlUpdate": "https://raw.githubusercontent.com/deysebrito/conecta4g/main/Update1",
+  "Sms": "https://raw.githubusercontent.com/deysebrito/conecta4g/main/Sms",
+  "EmailFeedback": "xx@gmail.com",
+  "UrlContato": "https://t.me/UltraVeloz_Ilimitado123",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "true",
   "Udp": [
     {
+      "Porta": "7100"
+    },
+    {
+      "Porta": "7200"
+    },
+    {
       "Porta": "7300"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
     }
   ],
   "Servers": [
